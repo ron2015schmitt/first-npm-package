@@ -1,0 +1,25 @@
+{
+  "name": "first-npm-package",
+  "version": "1.0.0",
+  "description": "demonstration of creating a package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ron2015schmitt/first-npm-package.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "ron schmitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ron2015schmitt/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/ron2015schmitt/first-npm-package#readme"
+}
