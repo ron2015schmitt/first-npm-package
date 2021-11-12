@@ -2,11 +2,11 @@
 ![mat-tui-calendar-ngx](https://user-images.githubusercontent.com/11559541/141514000-da6e6c8a-e00b-4f27-a8c2-b7f28538b2f0.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/ron2015schmitt/first-npm-package.svg)](https://github.com/ron2015schmitt/first-npm-package/stargazers)
 
 ![npm](https://img.shields.io/npm/v/@ron2015schmitt/first-npm-package?label=npm)
 ![npm downloads](https://img.shields.io/npm/dt/@ron2015schmitt/first-npm-package?label=npm%20downloads)
 
-[![GitHub stars](https://img.shields.io/github/stars/ron2015schmitt/first-npm-package.svg)](https://github.com/ron2015schmitt/first-npm-package/stargazers)
 
 
 # TODO
