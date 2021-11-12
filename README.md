@@ -1,4 +1,5 @@
 # first-npm-package
+![mat-tui-calendar-ngx](https://user-images.githubusercontent.com/11559541/141513377-6bfca901-034d-44d8-8df4-e2de9c8d9a40.png)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/7swf644d37pqdmuj/branch/master?svg=true)](https://ci.appveyor.com/project/ron2015schmitt/first-npm-package/branch/master) [![npm version](https://badge.fury.io/js/msnodesqlv8.svg)](https://badge.fury.io/js/msnodesqlv8)
 [![GitHub stars](https://img.shields.io/github/stars/ron2015schmitt/first-npm-package.svg)](https://github.com/ron2015schmitt/first-npm-package/stargazers)
