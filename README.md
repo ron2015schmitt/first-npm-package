@@ -2,7 +2,7 @@
 ![mat-tui-calendar-ngx](https://user-images.githubusercontent.com/11559541/141514000-da6e6c8a-e00b-4f27-a8c2-b7f28538b2f0.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![npm](https://img.shields.io/npm/dt/@ron2015schmitt/first-npm-package)
+![npm downloads](https://img.shields.io/npm/dt/@ron2015schmitt/first-npm-package)
 
 
 
