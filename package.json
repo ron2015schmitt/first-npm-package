@@ -1,6 +1,6 @@
 {
   "name": "@ron2015schmitt/first-npm-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "demonstration of creating a package",
   "main": "index.js",
   "directories": {
